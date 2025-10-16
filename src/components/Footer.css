@@ -1,0 +1,24 @@
+.footer {
+  background: #0b1120;
+  color: #94a3b8;
+  text-align: center;
+  padding: 25px 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  font-size: 0.9rem;
+}
+
+.footer p {
+  margin: 0;
+}
+
+.footer span {
+  background: linear-gradient(90deg, #6366f1, #ec4899);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 500;
+}
+
+.footer:hover {
+  color: #f8fafc;
+  transition: 0.3s ease;
+}
