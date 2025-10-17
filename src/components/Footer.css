@@ -13,6 +13,7 @@
 
 .footer span {
   background: linear-gradient(90deg, #6366f1, #ec4899);
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-weight: 500;
