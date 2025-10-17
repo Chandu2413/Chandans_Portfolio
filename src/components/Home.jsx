@@ -1,5 +1,5 @@
 import React from "react";
-import Profile from "../assets/profile.jpg" // Adjust the path if needed
+import Profile from "../../src/assets/profile.jpg" // Adjust the path if needed
 import "./Home.css";
 
 function Home() {
